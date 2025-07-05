@@ -1,6 +1,12 @@
 Goal: become the ultimate second brain. helps people 10x their learning. 
 
-WHAT I NEED
+IMMEDIATE TO DO
+1) add memory so the AI doesn't repeat what it recommended. 
+2) increase speed of recommendation.
+3) add ability to explain words/sentence/paragraphs. 
+4) cool idea: it would be cool to take voice notes of each session. 
+
+(GENERAL GUIDE) WHAT I NEED
 1) stay up to date with all the research. 
 key point 1: I'm still a beginner. 
     - Need explaination of relevnce and also first principles explaination of the tech. 
