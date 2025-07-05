@@ -1,0 +1,25 @@
+Goal: become the ultimate second brain. helps people 10x their learning. 
+
+WHAT I NEED
+1) stay up to date with all the research. 
+key point 1: I'm still a beginner. 
+    - Need explaination of relevnce and also first principles explaination of the tech. 
+    - Need to read seminal papers/literature of the field, i.e Minsky, Von Neumann, Rosenblatt, etc for CS and ML, not just the current literature.
+key point 2: I want to develop my range
+    - I want to learn and explore ideas from different fields as well. 
+
+2) take notes/develop my insights
+key point: I need a place where I can interact with the reading.
+    -I want to be able to take notes/ask questions of the text all natively in the platform. 
+        - get definition of a word.
+        - get explaination/reframe of a sentence or paragah. 
+    -I want the platform to identify and fill in my knowledge gaps.
+        - should present rabbit holes/first principles wanderings and implications and connections. 
+    -I want to be challenged
+        - the platform should identify my ideas and present counter arguments and ask questions to help me deepen my insights/widen the perspective from which I approach the problem.
+    -I want to stand on the shoulder of giants
+        - the platform should inform me wether an idea of mine is novel or not. 
+        - if not novel, then it should share with me the thoughts/writings of those who have already explored this.
+
+3) Minimal Effort
+key point: all the above must be native to the platform and require minimal effort on my part both when using on the computer and on the phone. Eventually I want to be able to have the learning featuers available to me app/platform agnostic (aka it doesn't depend on me being on the website)
