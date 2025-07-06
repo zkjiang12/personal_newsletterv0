@@ -3,8 +3,10 @@ Goal: become the ultimate second brain. helps people 10x their learning.
 IMMEDIATE TO DO
 1) add memory so the AI doesn't repeat what it recommended. 
 2) increase speed of recommendation.
-3) add ability to explain words/sentence/paragraphs. 
-4) cool idea: it would be cool to take voice notes of each session. 
+3) add statefulness. if I refresh page. it still displays the same thing unless I ask it to update me about new things. 
+4) add ability to explain words/sentence/paragraphs. 
+5) cool idea: it would be cool to take voice notes of each session. 
+6) cool idea: build a github like UI to see your progress. how many days you read a research paper and pushed a commit. 
 
 (GENERAL GUIDE) WHAT I NEED
 1) stay up to date with all the research. 
