@@ -1,3 +1,8 @@
+#TEST CONCLUSION
+#LLM inference alone is the fastest (obviously). Running just 1 prompt with grounding is faster than 5 prompts with async and with grounding.
+#LLM inference seems to return decent results as well and is a whole order of magnitude faster, sometimes multiple orders of magnitude. 
+#inference is just 3-6s, tool use is 40-100+s.
+
 #test with gemini
 import asyncio
 from dotenv import load_dotenv
