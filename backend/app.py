@@ -83,7 +83,7 @@ def main():
             I want to stay updated with research and learn the cutting edge concepts being explored. 
 
             TASK:
-            Search for 5 of the most impactful papers from arXiv published in the last 30 days in these fields:
+            Search for 5 of the most impactful papers from arXiv published in the last 30 days in these fields that are not in this list {titles}:
             - Multimodal AI
             - Spatial intelligence
             - Robotics and embodied AI
@@ -116,7 +116,7 @@ def main():
             [2-3 sentence summary of what the paper does]
 
             ---
-            
+
             REQUIREMENTS:
             - Only include papers with actual arXiv links
             - Focus on recent breakthrough results
