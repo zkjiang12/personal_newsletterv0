@@ -12,8 +12,8 @@ function App() {
     try{
       setLoading(true)
       console.log('fetching')
-      // const response = await fetch('https://newsletter-backend-aged-voice-3775.fly.dev/')
-      const response = await fetch('http://127.0.0.1:8080/')
+      const response = await fetch('https://newsletter-backend-aged-voice-3775.fly.dev/')
+      // const response = await fetch('http://127.0.0.1:8080/')
       const json = await response.json()
       console.log(json)
       setInfo(json.content)
@@ -33,7 +33,8 @@ function App() {
 
   const fetchStoredResponses = async () => {
     try {
-      const response = await fetch('http://127.0.0.1:8080/supabase')
+      // const response = await fetch('http://127.0.0.1:8080/supabase')
+      const response = await fetch('https://newsletter-backend-aged-voice-3775.fly.dev/supabase')
       const json = await response.json()
       console.log('Stored responses:', json.data)
       
