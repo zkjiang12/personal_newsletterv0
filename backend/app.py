@@ -37,20 +37,19 @@ def main():
             I'm an incoming Penn M&T student studying MechE with deep interest in AI, robotics, and startups. I'm currently working at a startup building AI glasses and plan to found my own company in the future.
 
             TASK:
-            Search for the top 3-5 most impactful AI/Robotics papers from arXiv published in the last 30 days. Focus on papers relevant to:
-            - Computer vision, spatial intelligence and multimodal AI
+            Search for one of the most impactful AI/Robotics papers from arXiv published in the last 30 days. Focus on papers relevant to:
+            - Computer vision and multimodal AI
+            - Spatial intelligence
             - Robotics and embodied AI
             - Edge AI and on-device inference
             - Human-computer interaction (specifically, neuroscience/neuro computing)
-            Also, just for the fun of it, sprinkle in a paper that is the seminal paper of a field like psycology, quantum physics, history of the cold war etc.
 
             OUTPUT FORMAT:
-            For each paper, provide exactly this structure:
+            For the paper, provide exactly this structure:
 
             ### [Paper Title]
 
             **Link:** [arXiv link]
-            **Authors:** [First 3-5 authors, institutions]
             **Publication Date:** [Date]
 
             **Description:**
@@ -65,7 +64,6 @@ def main():
             **Future Opportunities:**
             [What can be improved, startup/business opportunities]
 
-            **Relevance Score:** [1-10 for AI glasses/robotics startup]
             ---
 
             REQUIREMENTS:
