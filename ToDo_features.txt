@@ -1,7 +1,5 @@
 Goal: become the ultimate second brain. helps people 10x their learning. 
 
-hi
-
 IMMEDIATE TO DO
 1) add memory so the AI doesn't repeat what it recommended. (done)
 2) increase speed of recommendation. (done more or less)
